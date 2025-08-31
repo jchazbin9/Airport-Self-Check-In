@@ -1,2 +1,2 @@
 # Airport-Self-Check-In
-This is a prelimanary version will build on it as skills develop.
+This is a preliminary version that will be built on as skills develop.
