@@ -1,0 +1,17 @@
+vi = "guests"
+print("Hello, " + vi + ". Welcome!")
+s = "The Jackson-Evers INTL Airport"
+aim = "satisfying travelers"
+city = "Pearl,"
+state = "Mississippi."
+print(s,"is determined to", aim,'here in', city, state,)
+a = input("Provide destination: ").split()
+print("Destination is", a)
+b = input("Provide length of stay: ").split()
+print("Length of stay is", b)
+ab = input("Passport Number: ").split()
+print("Success!")
+bc = input("Visa number: ").split()
+print("Success!")
+d = input("Flight Information: ").split()
+print("Confirmed! Please head to the gate for boarding!")
